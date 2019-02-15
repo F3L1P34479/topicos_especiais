@@ -34,7 +34,7 @@ Operadores
 
 A raiz de um número é ele elevado a (1/x)
 16**(1/2) - raiz quadrada de 16
-16**(1/2) - raiz cúbica de 16
+16**(1/3) - raiz cúbica de 16
 '''
 print("A raiz é ", 16**(1/4))
 
@@ -69,4 +69,5 @@ while x <= 10 :
 
     x +=1
 
-# A 
+# A identação define o final ou o que pertence a algum laço
+print("Aqui o while já terminou!")
